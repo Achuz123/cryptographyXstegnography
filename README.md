@@ -120,9 +120,3 @@ extracted = extract_data_from_image(stego_image, len(secret_data))
 - Expand to **RGB images** for increased data capacity.
 - Add GUI for user-friendly operation.
 
----
-
-## 👨‍💻 Author
-
-**Achu B.** – Cybersecurity Student  
-For academic, research, or demo purposes.
